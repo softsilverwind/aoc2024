@@ -1,0 +1,3 @@
+# Advent of Code 2024
+
+Let's see if I can make it to day 25 in F# ...
